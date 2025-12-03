@@ -7,14 +7,14 @@ The script supports generating two types of lattices:
 
 Key features include:
 
-Adjustable geometric parameters (cell size, thickness, re-entrant angle, repetition count).
+- Adjustable geometric parameters (cell size, thickness, re-entrant angle, repetition count).
 
-Automatic construction of cylinders and spheres based on vertex/edge definitions.
+- Automatic construction of cylinders and spheres based on vertex/edge definitions.
 
-Creation of large-scale repeated auxetic lattices in 3D.
+- Creation of large-scale repeated auxetic lattices in 3D.
 
-Export of the final compound structure to STEP and STL formats.
+- Export of the final compound structure to STEP and STL formats.
 
-Built-in visualization of the exported STL using PyVista.
+- Built-in visualization of the exported STL using PyVista.
 
 The resulting geometry is suitable for finite element analysis, CAD workflows, and auxetic structure research.
